@@ -1,4 +1,4 @@
-# 🌟 Hi, I am [Emerson Oliveira]!
+# 🌟 Hi, I am Emerson Oliveira!
 
 💻 **Full Stack Developer | Software Architect**  
 🚀 Passionate about distributed systems, microservices, and scalable solutions  
