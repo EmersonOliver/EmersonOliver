@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🌟 Hi, I am [Emerson Oliveira]!
 
-<!--
-**EmersonOliver/EmersonOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer | Software Architect**  
+🚀 Passionate about distributed systems, microservices, and scalable solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies  
+🔹 **Backend:** Java, Quarkus, Spring Boot  
+🔹 **Frontend:** Angular, TypeScript  
+🔹 **Containers & DevOps:** Docker, Kubernetes, OpenShift  
+🔹 **Cloud:** AWS, Azure  
+🔹 **Messaging:** Kafka, RabbitMQ, IBMMQ  
+🔹 **Databases:** PostgreSQL, MongoDB, Redis  
+
+---
+
+## 📌 What I do  
+✅ Scalable microservices development  
+✅ API integration and event-driven architectures  
+✅ CRM, ERP, and Micro SaaS solutions  
+✅ SEO and Web optimization  
+✅ Machine Learning applied to business  
+
+---
+
+## 📫 How to find me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/emerson-alves-oliveira/))  
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:emerson-developer@outlook.com)  
+
+---
+
+## 🚀 GitHub Stats  
+![Your Name GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmersonOliver&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonOliver&layout=compact&theme=radical)  
+
